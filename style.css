@@ -50,3 +50,8 @@ ul {
 .footer-menu li a {
     font-size: 14px;
 }
+
+.footer-menu img{
+    height: 24px;
+    width: 24px;
+}
