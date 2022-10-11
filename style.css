@@ -1,0 +1,52 @@
+.ads {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.card {
+    margin: 10px;
+    padding: 4px;
+    /* border: none; */
+}
+
+.shop {
+    min-height: 85vh;
+}
+
+.notify {
+    height: 30px;
+    width: 32px;
+    cursor: pointer;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.copyright-area {
+    padding: 10px 0;
+}
+
+.copyright-text p {
+    margin: 0;
+    font-size: 14px;
+    color: #878787;
+}
+
+.copyright-text p a {
+    color: #ff5e14;
+}
+
+.footer-menu li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.footer-menu li a {
+    font-size: 14px;
+}
